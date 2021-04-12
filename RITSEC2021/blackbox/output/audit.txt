@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Apr 11 00:28:46 2021
+Invocation: foremost bb 
+Output directory: /home/theo/RITSECCTF-2021/blackbox/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: bb
+Start: Sun Apr 11 00:28:46 2021
+Length: 96 KB (98305 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Sun Apr 11 00:28:46 2021
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Sun Apr 11 00:28:46 2021
