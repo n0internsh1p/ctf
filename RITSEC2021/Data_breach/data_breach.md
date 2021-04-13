@@ -8,7 +8,7 @@ This is typically an OSINT challenge where we only have to use our search engine
 
 let's back to the Geno's linkedIn page 
 
-![logo](email.png)
+![logo](mail.png)
 
 As we can see, we have the email,
 
