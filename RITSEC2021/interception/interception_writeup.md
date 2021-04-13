@@ -62,4 +62,5 @@ However decrypting it through base32 does not give anything intelligible.
 A quick file analysis will tell that those are in fact gzip compressed bytes, restoring them with gunzip will give :
 
 password : ritsec
+
 droneinfo.log : RITSEC{Dr0n3_ar3_rea11y_c00l}
