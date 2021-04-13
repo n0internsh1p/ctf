@@ -1,7 +1,6 @@
 This challenge is a part of the BIRDTHIEF series, the instructions are taken from the same pdf
 
 ![interception_objective](./interception_objective.png)
-<img src="./interception_objective.png" width="384" height="216" />
 
 The goal will be to find traces of connections to the drone in the interception.pcapng file given alongside the pdf.
 
