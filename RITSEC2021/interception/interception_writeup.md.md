@@ -1,1 +1,0 @@
-This challenge is a part of the BIRDTHIEF series
