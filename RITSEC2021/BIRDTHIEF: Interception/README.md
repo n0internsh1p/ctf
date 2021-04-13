@@ -2,7 +2,7 @@ This challenge is a part of the BIRDTHIEF series, the instructions are taken fro
 
 ![interception_objective](./interception_objective.png)
 
-The goal will be to find traces of connections to the drone in the interception.pcapng file given alongside the pdf.
+The goal is to find traces of connections to the drone in the interception.pcapng file given alongside the pdf.
 
 Loading the file in Wireshark and using the string search tool reveal that multiple unsuccessful DNS requests are made to the `drone_3413.localdomain` domain name from 192.168.58.129.
 Using the display filter `ip.src==192.168.58.129` shows the activity of this host, taking the DNS traffic out with `&& !dns` shows TCP connections with 192.168.58.128.
