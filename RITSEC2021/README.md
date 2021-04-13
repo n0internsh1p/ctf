@@ -9,5 +9,5 @@ Du 9 au 11 Avril
 | Challenge | Domaine | WriteUp |
 | --- | --- | --- |
 | IFTPP | Forensics | [WriteUp by Farnior](IFTPP/) |
-| BIRDTHIEF: Interception | Forensics | [WriteUp by Teo](interception/) |
+| BIRDTHIEF: Interception | Forensics | [WriteUp by Teo](interception/interception_writeup.md) |
 |     |     |     |
