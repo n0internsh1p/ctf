@@ -4,6 +4,7 @@
 ![score](https://img.shields.io/badge/Score-200-blue.svg)
 
 *Read the slide deck for more information*
+
 *Flag format RITSEC{}*
 
 ## Detailed Solution
