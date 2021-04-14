@@ -1,3 +1,13 @@
+# BIRDTHIEF: Interception
+
+![Category](https://img.shields.io/badge/Category-Forensics-yellow.svg)   
+![score](https://img.shields.io/badge/Score-200-blue.svg)
+
+*Read the slide deck for more information*
+*Flag format RITSEC{}*
+
+## Detailed Solution
+
 This challenge is a part of the BIRDTHIEF series, the instructions are taken from the same pdf
 
 ![interception_objective](./interception_objective.png)
@@ -51,6 +61,8 @@ Some letters are doubled because they were sent once by the operator and sent ba
 The password and file content seems encrypted in regular base 32 : the characters are all upper case, the numbers don't go higher than 7 and lower than 2 and there is some '=' padding
 However decrypting it through base32 does not give anything intelligible.
 A quick file analysis will tell that those are in fact gzip compressed bytes, restoring them with gunzip will give :
+
+## Flag
 
 password : ritsec
 
