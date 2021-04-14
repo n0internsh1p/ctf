@@ -7,7 +7,7 @@
 *Can you break it for us?*\
 *hash : 435818055906*\
 *Flag should be submitted as RS{<cracked hash>}*\
-*Author: 1nv8rZim*\
+*Author: 1nv8rZim*
 
 ## Detailed solution
 
