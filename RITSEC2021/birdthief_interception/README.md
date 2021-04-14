@@ -60,7 +60,7 @@ Here the login has been successful, the operator even display the content of the
 Some letters are doubled because they were sent once by the operator and sent back to his distant terminal by the drone.
 The password and file content seems encrypted in regular base 32 : the characters are all upper case, the numbers don't go higher than 7 and lower than 2 and there is some '=' padding
 However decrypting it through base32 does not give anything intelligible.
-A quick file analysis will tell that those are in fact gzip compressed bytes, restoring them with gunzip will give :
+A quick file analysis will tell that those are in fact gzip compressed bytes, restoring them with gunzip gives the flag.
 
 ## Flag
 
