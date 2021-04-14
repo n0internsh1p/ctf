@@ -7,7 +7,7 @@
 
 *Flag format RITSEC{}*
 
-## Detailed Solution
+## Detailed solution
 
 This challenge is a part of the BIRDTHIEF series, the instructions are taken from the same pdf
 
