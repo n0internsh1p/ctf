@@ -1,5 +1,7 @@
 # Data Breach
 
+![crypto category](https://img.shields.io/badge/Category-INTEL-blue.svg)
+
 #### Oh no !  Geno's email was involved in a data breach ! What was his password?
 
 
