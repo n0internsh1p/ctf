@@ -1,6 +1,6 @@
 # Robots
 
-![crypto category](https://img.shields.io/badge/Category-WEB-Green.svg)
+![crypto category](https://img.shields.io/badge/Category-WEB-Green.svg)  
 
 #### Robots are taking over. Find out more.
 

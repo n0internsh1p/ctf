@@ -1,7 +1,16 @@
 # Challenge Name: AAAAA
 
 ![Category](https://img.shields.io/badge/Category-AAAAA-yellow.svg)   
-![score](https://img.shields.io/badge/Score-BBBBB-blue.svg)
+
+![crypto category](https://img.shields.io/badge/Category-Forensics-yellow.svg)  
+
+![crypto category](https://img.shields.io/badge/Category-INTEL-blue.svg)  
+
+![crypto category](https://img.shields.io/badge/Category-WEB-Green.svg)  
+
+![Category](https://img.shields.io/badge/Category-Crypto-red.svg)  
+
+![score](https://img.shields.io/badge/Score-BBBBB-blue.svg)  
 
 
 
