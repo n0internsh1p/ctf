@@ -2,8 +2,8 @@
 
 ![crypto category](https://img.shields.io/badge/Category-Forensics-yellow.svg)
 
-*My friend always messes with PNGs.... what did he do this time?*
-*author: itsecgary*
+*My friend always messes with PNGs.... what did he do this time?*\
+*author: itsecgary*\
 *score: 3/10*
 
 ## Detailed solution
@@ -13,7 +13,7 @@ I was going to use xxd to have a better view of the file and remarked that the d
 
 ![dump](./dump.png)
 
-I simply reversed the file with cyberchef and saved it to reversed.png.
+I simply reversed the file and saved it to reversed.png.
 
 ![reversed](./reversed.png)
 
