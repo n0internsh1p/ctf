@@ -3,7 +3,7 @@
 ![RITSEC Logo](https://ctftime.org/media/cache/27/d0/27d0cdd143aab50c6d737ba4e994becc.png)  
 
 [CTF Time](https://ctftime.org/event/1309)  
-Rochester Institute of Technology  
+Contagion - Rochester Institute of Technology  
 ven, 09 avr. 2021, 18:00 CEST — dim, 11 avr. 2021, 18:00 CEST   
 
 ## Challenges

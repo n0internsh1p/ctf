@@ -12,7 +12,7 @@
 
 ![score](https://img.shields.io/badge/Score-BBBBB-blue.svg)  
 
-
+![Author](https://img.shields.io/badge/Author-Teo-blue.svg)  
 
 *DESCRIPTION DU CHALL (COPIER COLLER)*
 
