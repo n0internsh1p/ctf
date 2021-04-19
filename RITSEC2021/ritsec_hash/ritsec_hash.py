@@ -35,7 +35,7 @@ def h_function(digest, x):
     
     for round_number in range(13):
         digest = round(digest, x, round_number)
-    return tmp_digest
+    return digest
     
     
 def hash(bytes_to_hash):
@@ -46,16 +46,16 @@ def hash(bytes_to_hash):
     return H
 
 
-# validating the hash's implementation
+# validating the implementation
 if hash(b"RITSEC_CTF_2021") == bytes.fromhex("3ba50807aa02"):
-    print("hash function working")
+    print("hash function correct")
 
 # dictionary attack
 with open("/usr/share/wordlists/rockyou.txt", "rb") as wordlist:
     for word in wordlist:
         res = hash(word.rstrip(b'\n'))
         if res == bytes.fromhex("435818055906"):
-            print("FLAG : RS{" + word + "}")
+            print("FLAG : RS{" + word.rstrip(b'\n').decode() + "}")
 
             
 """
