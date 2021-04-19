@@ -1,6 +1,7 @@
 # Robots
 
-![crypto category](https://img.shields.io/badge/Category-WEB-Green.svg)  
+![crypto category](https://img.shields.io/badge/Category-WEB-Green.svg?style=for-the-badge)  
+![Author xsoltek](https://img.shields.io/badge/Author-xsoltek-Green.svg?style=for-the-badge&colorA=black&logo=github)  
 
 #### Robots are taking over. Find out more.
 

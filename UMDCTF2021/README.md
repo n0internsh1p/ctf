@@ -8,8 +8,13 @@ ven, 16 avr. 2021, 23:00 CEST — dim, 18 avr. 2021, 23:00 CEST
 
 ## Challenges
 
-| Challenge         | Domaine                                                      | WriteUp                                                      |
-| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Not Slick         | ![crypto category](https://img.shields.io/badge/Category-Forensics-yellow.svg) | [![Author](https://img.shields.io/badge/Author-Teo-red.svg)](not_slick/) |
-| Computer Troubles | ![Category](https://img.shields.io/badge/Category-Crypto-red.svg) | [![Author](https://img.shields.io/badge/Author-Teo-red.svg)](computer_troubles/) |
+![crypto category](https://img.shields.io/badge/Category-Forensics-yellow.svg?style=flat)  
+
+- [Not Slick](not_slick/)
+
+![Category](https://img.shields.io/badge/Category-Crypto-red.svg?style=for-the-badge)  
+
+- [Computer Troubles](computer_troubles/)
+
+![Category](https://img.shields.io/badge/Category-Crypto-blue.svg?style=flat-square) 
 
