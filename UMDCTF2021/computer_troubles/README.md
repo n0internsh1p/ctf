@@ -1,9 +1,9 @@
-# Comuputer Troubles
+# Computer Troubles
 
-![Category](https://img.shields.io/badge/Category-Crypto-red.svg)
+![Category](https://img.shields.io/badge/Category-Crypto-red.svg)  
 
-*Help! My computer keeps sending me encoded alerts! What is it trying to tell me?*\
-*author: sydocon*\
+*Help! My computer keeps sending me encoded alerts! What is it trying to tell me?*  
+*author: sydocon*  
 *score: 2/10*
 
 The string to decode from message.txt

@@ -12,7 +12,7 @@
 
 ![score](https://img.shields.io/badge/Score-BBBBB-blue.svg)  
 
-
+[![Author](https://img.shields.io/badge/Author-checkam-red.svg?style=for-the-badge&colorA=black&logo=github)](https://github.com/checkam)
 
 *DESCRIPTION DU CHALL (COPIER COLLER)*
 

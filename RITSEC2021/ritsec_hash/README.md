@@ -1,7 +1,7 @@
 # RITSEC Hash
 
-![Category](https://img.shields.io/badge/Category-Crypto-red.svg)   
-![score](https://img.shields.io/badge/Score-250-blue.svg)
+![Category](https://img.shields.io/badge/Category-Crypto-red.svg?style=for-the-badge)   
+![score](https://img.shields.io/badge/Score-250-blue.svg?style=for-the-badge)
 
 *Hmmm.. we found this hash along with a white paper explaining this custom hashing algorithm.*\
 *Can you break it for us?*\
