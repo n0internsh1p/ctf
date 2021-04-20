@@ -1,6 +1,8 @@
 # Follow the Currents
 
-![Category](https://img.shields.io/badge/Category-Crypto-red.svg?style=for-the-badge)
+![Category](https://img.shields.io/badge/Category-Crypto-red.svg?style=for-the-badge)  
+
+[![Write Up Author](https://img.shields.io/badge/Writeup by-Teo437-red.svg?style=for-the-badge&colorA=black&logo=github)](https://github.com/Teo437)
 
 *go with the [flow](./enc)... [Source](source.py)*\
 *Author: lamchcl*
