@@ -8,7 +8,7 @@ Friday 16 April 2021 21:00:00 - Sunday 18 April 2021 21:00:00
 
 ## Challenges
 
-![crypto category](https://img.shields.io/badge/Category-Forensics-yellow.svg?style=flat)  
+![crypto category](https://img.shields.io/badge/Category-Forensics-yellow.svg?style=for-the-badge)  
 
 - [Not Slick](not_slick/)
 
@@ -16,5 +16,5 @@ Friday 16 April 2021 21:00:00 - Sunday 18 April 2021 21:00:00
 
 - [Computer Troubles](computer_troubles/)
 
-![Category](https://img.shields.io/badge/Category-Crypto-blue.svg?style=flat-square) 
+![Category](https://img.shields.io/badge/Category-Crypto-blue.svg?style=for-the-badge) 
 
